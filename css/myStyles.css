@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.title {
+
+	margin: 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 4em;
+	text-align: center;
+	background-color: #ff0000;
+	color: #CECECE;
+}
+
+#myCanvasDiv{
+	width: 100%;
+	text-align: center;
+
+}
+
+#myCanvas {
+	display: block;
+	background-color: #ffe6b3;
+	border: 2px solid #4d0099;
+	margin-left: auto;
+	margin-right: auto;
+
+}
